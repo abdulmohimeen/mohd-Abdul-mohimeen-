@@ -1,10 +1,13 @@
-#inclue<stdio.h>
+
+#include <stdio.h>
 int main()
 {
-float length,breadth,area;
-printf ('Enter the length of the rectngle");
-sacnf ('%f", &length);
-printf ("Enter the breadth of the rectangle");
-scanf ("%f, &breadth);
-area=leangth *breadth")
-printf ("The area of the rectangle is :%.2f,")"')"')}
+    int l=10;
+    int b=5;
+    int a;
+    a=l*b;
+    printf("length=%d\n",l);
+    printf("breadth=%d\n",b);
+    printf("area of rectangle=%d",a);
+    return 0;
+}
