@@ -1,6 +1,0 @@
-#include <stdio.h>
-int main()
-{
-  printf("mohd abdul mohimeen");
-return 0;
-}
